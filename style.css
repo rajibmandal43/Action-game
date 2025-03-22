@@ -28,7 +28,7 @@ body{
 .obstacle{
     width: 166px;
     height: 113px;
-    background-image: url(mia-main2.jpg);
+    background-image: url(dragon.png);
     background-size: cover;
     position: absolute;
     bottom: 0;
